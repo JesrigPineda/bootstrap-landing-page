@@ -9,14 +9,14 @@
 
 .main-header {
   position: relative;
-  background: url(../img/background.jpg);
+  background: white;
   background-size: cover;
   min-height: 600px;
 }
 
 .background-overlay {
   position: absolute;
-  background: rgba(48, 51, 107, 0.7);
+  background: rgb(0, 123, 255);
   top: 0;
   left: 0;
   width: 100%;
@@ -30,5 +30,5 @@
 
 .team,
 footer {
-  background: #30336b;
+  background: #343a40;
 }
